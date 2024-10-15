@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AI Summarizer",
+  "version": "1.0",
+  "description": "Summarizes articles using an AI",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab", "tabs"]
+}
